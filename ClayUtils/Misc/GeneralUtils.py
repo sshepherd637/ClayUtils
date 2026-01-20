@@ -1,5 +1,3 @@
-#!/Users/samshepherd/Work/Codes/PyEnvs/pyenv/bin/python3
-
 from ase import Atoms, build, io, geometry
 import numpy as np 
 import random, re
